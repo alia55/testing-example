@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sum</title>
+    <title>Sum function</title>
 </head>
 <body>
  
